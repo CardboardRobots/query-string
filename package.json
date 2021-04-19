@@ -1,7 +1,7 @@
 {
-  "name": "@sjohnsonaz/query-string",
-  "version": "0.0.1",
-  "description": "Routing utilities for Client and Server",
+  "name": "@cardboardrobots/query-string",
+  "version": "0.0.0",
+  "description": "Query String encoder and decoder",
   "main": "dist/src/index.js",
   "typings": "dist/src/index.d.ts",
   "scripts": {
