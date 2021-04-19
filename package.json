@@ -1,5 +1,5 @@
 {
-  "name": "@sierra/query-string",
+  "name": "@sjohnsonaz/query-string",
   "version": "0.0.0",
   "description": "Routing utilities for Client and Server",
   "main": "dist/src/index.js",
