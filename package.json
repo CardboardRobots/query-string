@@ -1,6 +1,6 @@
 {
   "name": "@sjohnsonaz/query-string",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Routing utilities for Client and Server",
   "main": "dist/src/index.js",
   "typings": "dist/src/index.d.ts",
