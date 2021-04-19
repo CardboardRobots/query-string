@@ -1,1 +1,1 @@
-@sierra/query-string
+@sjohnsonaz/query-string
