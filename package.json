@@ -1,6 +1,6 @@
 {
   "name": "@cardboardrobots/query-string",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Query String encoder and decoder",
   "repository": {
     "url": "https://github.com/cardboardrobots/query-string"
