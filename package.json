@@ -5,6 +5,9 @@
   "repository": {
     "url": "https://github.com/cardboardrobots/query-string"
   },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "scripts": {
